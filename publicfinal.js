@@ -1,1 +1,0 @@
-function add(n,d){return n+d}function subs(n,u){return n-u}function add(n,d){return n+d}function subs(n,u){return n-u}

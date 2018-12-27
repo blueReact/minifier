@@ -1,0 +1,10 @@
+https://www.npmjs.com/package/uglify-js
+https://github.com/mishoo/UglifyJS2/tree/v2.x
+https://nodejs.org/api/fs.html#fs_file_system_flags
+
+// simplest sample
+var code = "function add(first, second) { return first + second; }";
+var result = UglifyJS.minify(code);
+
+// outputs
+{ code: 'function add(n,d){return n+d}' }

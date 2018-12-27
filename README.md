@@ -1,2 +1,5 @@
-# minifier
-Node based minifier for my client side javascript
+# Minifier
+Node based minifier to minify my client side javascript for production environment.
+
+# How to use?
+node minify.js || node minify

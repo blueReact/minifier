@@ -1,0 +1,28 @@
+{
+  "name": "minifier",
+  "version": "1.0.0",
+  "description": "node minifier for my client side javascript and css ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roycodeman/minifier.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "uglification",
+    "uglify-js"
+  ],
+  "author": "roycodeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roycodeman/minifier/issues"
+  },
+  "homepage": "https://github.com/roycodeman/minifier#readme",
+  "dependencies": {
+    "uglify-js": "^3.4.9"
+  }
+}

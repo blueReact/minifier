@@ -1,6 +1,6 @@
 {
   "name": "minifier",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "node minifier for my client side javascript and css ",
   "main": "index.js",
   "scripts": {
